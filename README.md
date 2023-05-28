@@ -7,7 +7,7 @@ The opencore EFI I use to run macOS Ventura on my personal machine. You can use 
 - Chipset: intel H610
 - RAM: 2x 8GB PNY (3200mt/s)
 - SSD: 1TB M.2 SP
-- Audio: Realtek
+- Audio: Realtek ALC897
 - Networking: 1GB Realtek ethernet
 ## Caveats
 - haven't set up audio yet, but sound can play through HDMI. Volume can't be changed.
