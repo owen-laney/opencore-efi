@@ -10,9 +10,8 @@ The opencore EFI I use to run macOS Ventura on my personal machine. You can use 
 - Audio: Realtek ALC897
 - Networking: 1GB Realtek ethernet
 ## Caveats
-- haven't set up audio yet, but sound can play through HDMI. Volume can't be changed.
 - no bluetooth or wifi (I connect to a wifi extender with ethernet and use a wireless keyboard dongle)
 - apple ID sign in works, but it's buggy
 - iMessage fails to sign in
 ## Additional Info
-- **boot-args** -v keepsyms=1 debug=0x100 agdpmod=pikera unfairgva=1 -wegnoigpu alcid=1
+- **boot-args** -v keepsyms=1 debug=0x100 agdpmod=pikera unfairgva=1 -wegnoigpu alcid=12
