@@ -1,5 +1,5 @@
 ## Opencore EFI
-The opencore EFI I use to run macOS Ventura on my personal machine. You can use this as an example or try to replicate it, but *always* build your efi from scratch. The [dortania](https://dortania.github.io/OpenCore-Install-Guide/) guide has great instructions, and it covers almost every system out there. If something isn't covered in the guide use google, DON'T INSTALL THE FILES IN THIS REPO.
+These are the files I used to install opencore Ventura on my PC. You can fix the issues listed in the caveats section if you follow the dortaina guide, since these parts are all 100% compatible with MacOS Ventura.
 ## Specs
 - CPU: intel i3-12100f
 - GPU: AMD rx 5600 xt (Asus)
